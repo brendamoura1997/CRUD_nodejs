@@ -14,7 +14,7 @@ projeto e instale módulos usando
   * **npm start**
 
 ## O que pode fazer neste projeto
-* Criar dados e armazená-los no banco de dados na nuvem
+* Criar dados e armazená-los no banco de dados na nuvem (Mongo Atlas)
 * Atualizar dados
 * Ler dados
 * Excluir dados (apenas individualmente)
