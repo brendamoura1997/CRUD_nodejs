@@ -1,5 +1,5 @@
 ### CRUD_nodejs
-Repositório criado com objetivo de armazenar uma aplicação CRUD feita com Nodejs, Express e Mongodb.
+Repositório criado com objetivo de armazenar uma aplicação CRUD feita com Nodejs, Express e Mongodb utilizando padrão MVC.
 
 ## Como executar esse projeto
 * Para executar este projeto, abra o terminal do seu editor de código fonte. Pelo terminal, entre na pasta do
