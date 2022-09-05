@@ -6,7 +6,7 @@ Repositório criado com objetivo de armazenar uma aplicação CRUD feita com Nod
 projeto e instale módulos usando
   *	**npm i express morgan nodemon ejs body-parser dotenv mongoose axios**
 
-* Em seguida, crie o arquivo config.env e crie as variáveis:
+* Em seguida, crie o arquivo *config.env* e crie as variáveis:
   * **PORT** : usei PORT=8080
   * **MONGO_URI** : tem o seguinte formato, preencha com suas informações geradas no Mongo Atlas MONGO_URI=mongodb+srv://**NOME DO USUÁRIO:SENHA DO USUÁRIO**@cluster0.**EXEMPLO**.mongodb.net/**NOME DO BANCO DE DADOS**?retryWrites=true&w=majority
 
